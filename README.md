@@ -1,2 +1,3 @@
-# python-cheatsheet
-Python Cheatsheet 🐍
+# Python Cheatsheet 🐍
+
+Python Cheatsheet
